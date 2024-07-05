@@ -1,0 +1,22 @@
+{
+  "name": "preset",
+  "version": "0.0.0",
+  "description": "Basic TypeScript project with test framework installed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pviara/preset.git"
+  },
+  "author": "pviara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pviara/preset/issues"
+  },
+  "homepage": "https://github.com/pviara/preset#readme",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
